@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "520690778175",
+    "project_id": "tubes-provis",
+    "storage_bucket": "tubes-provis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520690778175:android:fc77c30a0234c1bd16b88a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520690778175-30beqgmekgvag3oljpk4d19e907vvds5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjM31H_UhXMx3tCX58Qpl-BW0lPdYMtYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520690778175-30beqgmekgvag3oljpk4d19e907vvds5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520690778175:android:488becca36a6b00416b88a",
+        "android_client_info": {
+          "package_name": "com.example.tubes_provis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520690778175-30beqgmekgvag3oljpk4d19e907vvds5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjM31H_UhXMx3tCX58Qpl-BW0lPdYMtYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520690778175-30beqgmekgvag3oljpk4d19e907vvds5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
